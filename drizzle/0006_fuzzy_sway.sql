@@ -1,0 +1,1 @@
+ALTER TABLE "subscriptions" ALTER COLUMN "price_id" DROP NOT NULL;

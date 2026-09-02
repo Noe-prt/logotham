@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1765883190398,
+      "tag": "0000_slow_ghost_rider",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1765904445468,
+      "tag": "0001_add_cancel_at_period_end",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1765892525037,
+      "tag": "0002_steady_omega_sentinel",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1765904560466,
+      "tag": "0003_add_subscription_seats",
+      "breakpoints": false
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1765904742927,
+      "tag": "0004_make_subscription_user_id_nullable",
+      "breakpoints": false
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1765904803519,
+      "tag": "0005_make_price_id_nullable",
+      "breakpoints": false
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1765892842892,
+      "tag": "0006_fuzzy_sway",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1768759502089,
+      "tag": "0007_common_black_knight",
+      "breakpoints": true
+    }
+  ]
+}
